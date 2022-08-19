@@ -12,7 +12,7 @@
 </span>
 
 ## How website looks like
-<img src =" "/>
+<img src =" https://github.com/Swadhindhara/Interior-Design-project-10/blob/main/final%20output.png"/>
 
 
 
